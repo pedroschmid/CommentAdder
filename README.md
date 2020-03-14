@@ -1,4 +1,4 @@
-# Comment Form
+# Comment Publisher
 application that records comments taking the author's name and description
 
 # Without Comments
